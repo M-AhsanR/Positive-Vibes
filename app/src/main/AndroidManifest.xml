@@ -56,7 +56,7 @@
 
         <meta-data
             android:name="io.fabric.ApiKey"
-            android:value="28cc51328293b6477e281a30215a3a6313b45827" />
+            android:value="" />
 
         <activity
             android:name=".Activity.EditProfileActivity"
